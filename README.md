@@ -34,4 +34,4 @@ Six years owning enterprise HR systems for 1,500+ employees, three years running
 
 This is Mari, my dog and unofficial office manager.
 
-![Mari](MARI_IMAGE_URL_HERE)
+<img src="mari.jpeg" alt="Mari" width="200">
